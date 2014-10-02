@@ -1,0 +1,8 @@
+Tide User Manual
+================
+
+Tide is a terminal integrated development environment.
+
+This manual is designed to be readable by someone with basic UNIX
+command-line skills, but no previous knowledge of Tide.
+

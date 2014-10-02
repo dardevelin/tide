@@ -1,0 +1,17 @@
+*.tar.gz
+*.dsc
+*.deb
+*.exe
+/cscope*
+*.obj
+*.lib
+*.res
+*.sln
+*.suo
+*.ncb
+*.vcproj
+*.user
+*.idb
+*.pdb
+/Debug/
+/Release/
