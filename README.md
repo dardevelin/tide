@@ -3,10 +3,10 @@
 ###License: GPL version 3 - no later version option.
 
 ###Frequently asked questions:
-**Why no later version option for the license ?**
+What about allowing later GPL version? 
 
-Currently version 3 is the latest version and I can't possibly agree with something
-that I don't know/understand and most importantly doesn't exist. So any reference to later version is a no go at this point. If the current license is a trouble for you, feel free to contact me, maybe we can find something suitable for everyone.
+At this point, version 3 is the latest version.
+Since a later version doesn't yet exist, I can't possibly agree with something that I haven't read. So, any reference to later version is a no go at this point. If the current license is a trouble for you, feel free to contact me, maybe we can find something suitable for everyone.
 
 **Why do I need a terminal IDE ?**
 
