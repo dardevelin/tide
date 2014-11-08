@@ -3,7 +3,7 @@
 ###License: GPL version 3 - no later version option.
 
 ###Frequently asked questions:
-What about allowing later GPL version? 
+**What about allowing later GPL version?**
 
 At this point, version 3 is the latest version.
 Since a later version doesn't yet exist, I can't possibly agree with something that I haven't read. So, any reference to later version is a no go at this point. If the current license is a trouble for you, feel free to contact me, maybe we can find something suitable for everyone.
